@@ -22,12 +22,13 @@ Images written to SD cards are the quickest way to get running on a Raspberry Pi
 ### Lightweight / Slim
 
 | OS | Written Image Size | Runtime Memory Footprint | Image | Setup |
-| --- | ------------------ | ------------------------ | ----- | ----- |
+| --- | ------------------: | ------------------------: | ----- | ----- |
 | [Arch Linux ARM](https://archlinuxarm.org) <br> *A lightweight and flexible Linux distribution that tries to Keep It Simple.* | - | - | [Download](http://os.archlinuxarm.org/os/ArchLinuxARM-rpi-3-latest.tar.gz) | [Setup](https://archlinuxarm.org/platforms/armv6/raspberry-pi) |
 | [Alpine Linux](https://wiki.alpinelinux.org/wiki/Main_Page) <br> *A security-oriented, lightweight Linux distribution based on musl libc and Busybox.* | - | - | [Download](https://alpinelinux.org/downloads/) | [Setup](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) |
-| [DietPi]() <br> | - | - | [Download]() | [Setup]() |
-| [Raspbian Lite]() <br> | - | - | [Download](https://www.raspberrypi.org/downloads/raspbian/) | [Setup]() |
-
+| [Crux ARM](https://crux-arm.nu/Main/HomePage) <br> *CRUX ARM is a lightweight Linux distribution for the ARM architecture targeted at experienced Linux users.* | 81 MB  | - | [Download](https://crux-arm.nu/SupportedDevices/Raspberrypi) | [Setup](https://crux-arm.nu/SupportedDevices/Raspberrypi) |
+| [DietPi]() <br> *Highly optimized minimal Debian OS.* | 400 MB | - | [Download](https://dietpi.com/#download) | [Setup](https://dietpi.com/phpbb/viewtopic.php?p=9#p9) |
+| [piCore]() <br> *The Core Project is a highly modular based system with community build extensions.* | 35 MB | - | [Download](http://www.tinycorelinux.net/9.x/armv6/) | [Setup](http://tinycorelinux.net/9.x/armv6/releases/RPi/README) |
+| [Raspbian Lite]() <br> *Raspbian without the graphical desktop, based on Debian.*| 1.2 GB | - | [Download](https://www.raspberrypi.org/downloads/raspbian/) | [Setup]() |
 ### Full
 
 - Armbian
