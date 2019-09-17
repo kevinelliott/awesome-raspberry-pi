@@ -5,8 +5,7 @@ A curated list of awesome resources for the Raspberry Pi
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
 > The Raspberry Pi is an infamous low-cost Single Board Computer (SBC) that has reduced the barrier of entry for computing and tinkering.
-> The Raspberry Pi Foundation is a non-profit organization that sought to seek innovations that reduce the cost of
-> computing by providing the Raspberry Pi computers in a compact form factor (about the size of a credit card).
+> The Raspberry Pi is in a compact form factor (about the size of a credit card).
 >
 > The Raspberry Pi is one of the most well supported SBCs on the market.
 >
