@@ -23,9 +23,9 @@ Images written to SD cards are the quickest way to get running on a Raspberry Pi
 ### Lightweight / Slim
 
 | OS | Written Image Size | Runtime Memory Footprint | Image | Setup |
-| --- | --- | --- | --- | --- | --- |
-| [Arch Linux ARM](https://archlinuxarm.org) <br> A lightweight and flexible Linux distribution that tries to Keep It Simple. | - | - | [Download](http://os.archlinuxarm.org/os/ArchLinuxARM-rpi-3-latest.tar.gz) | [Setup](https://archlinuxarm.org/platforms/armv6/raspberry-pi) |
-| [Alpine Linux](https://wiki.alpinelinux.org/wiki/Main_Page) <br> A security-oriented, lightweight Linux distribution based on musl libc and Busybox. | - | - | [Download](https://alpinelinux.org/downloads/) | [Setup](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) |
+| --- | ------------------ | ------------------------ | ----- | ----- |
+| [Arch Linux ARM](https://archlinuxarm.org) <br> *A lightweight and flexible Linux distribution that tries to Keep It Simple.* | - | - | [Download](http://os.archlinuxarm.org/os/ArchLinuxARM-rpi-3-latest.tar.gz) | [Setup](https://archlinuxarm.org/platforms/armv6/raspberry-pi) |
+| [Alpine Linux](https://wiki.alpinelinux.org/wiki/Main_Page) <br> *A security-oriented, lightweight Linux distribution based on musl libc and Busybox.* | - | - | [Download](https://alpinelinux.org/downloads/) | [Setup](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) |
 | [DietPi]() <br> | - | - | [Download]() | [Setup]() |
 | [Raspbian Lite]() <br> | - | - | [Download](https://www.raspberrypi.org/downloads/raspbian/) | [Setup]() |
 
