@@ -15,9 +15,9 @@ A curated list of awesome resources for the Raspberry Pi
 
 Images written to SD cards are the quickest way to get running on a Raspberry Pi. There are a large number of images available:
 
-- Lightweight - Focused on being small/thin/lightweight and optimized, allowing you to dedicate more system resources to your specific applications.
-- Full - Provides entire operation system and desktop UI.
-- Specialized - Customized distributions focusing on particular applications or purposes.
+- [Lightweight](#lightweight--slim) - Focused on being small/thin/lightweight and optimized, allowing you to dedicate more system resources to your specific applications.
+- [Full](#full) - Provides entire operation system and desktop UI.
+- [Specialized](#specialized) - Customized distributions focusing on particular applications or purposes.
 
 ### Lightweight / Slim
 
