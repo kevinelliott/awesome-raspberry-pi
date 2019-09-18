@@ -33,15 +33,30 @@ Images written to SD cards are the quickest way to get running on a Raspberry Pi
 
 ### Full
 
+- [Android Things](https://developer.android.com/things/hardware/raspberrypi.html) - Android Things lets you experiment with building smart, connected device applications.
 - Armbian
+- [FedBerry](http://fedberry.org) - A Fedora Remix specifically built for use with Raspberry Pi® 2/3 Model B computers.
+- [Gentoo Linux](https://wiki.gentoo.org/wiki/Raspberry_Pi) - Flexible Linux based Raspberry Pi OS and uses Portage software management to increases security and streamlines performance.
 - Raspbian
+- [RISC OS](https://www.riscosopen.org/content/downloads/raspberry-pi) - A fast and easily customised operating system for ARM devices (non-Linux).
+- [SUSE Linux Enterprise Server](https://www.suse.com/products/arm/) - SUSE Linux Enterprise Server for Arm is an enterprise-grade Linux distribution that is optimized for unique 64-bit Arm chip capabilities.
 - Ubuntu
+- [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu MATE for the Raspberry Pi provides a complete, familiar, desktop environment that can be used for basic desktop computing.
+- [Windows IoT Core](https://docs.microsoft.com/en-us/windows/iot-core/windows-iot-core)
   
 ### Specialized
 
+- [Kali Linux](https://docs.kali.org/kali-on-arm/install-kali-linux-arm-raspberry-pi) - Linux distribution largely focused on security and pentesting.
 - [LibreELEC](https://libreelec.tv) - A lightweight ‘Just enough OS’ Linux distribution purpose-built for Kodi on current and popular mediacentre hardware.
+- [OctoPi](https://octoprint.org) - Manage and control 3D printers.
+- [OpenElec](https://openelec.tv) - A small Linux based Just Enough Operating System (JeOS) built from scratch as a platform to turn your computer into a Kodi media center.
 - [OpenMediaVault](https://www.openmediavault.org) - The next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more.
-- RaspiBlitz
+- [OpenWrt](https://openwrt.org) - Linux-based open source wireless router with extensibility.
+- [OSMC](https://osmc.tv/) - A free and open source media center built for the people, by the people.
+- [pi-TopOS](https://www.pi-top.com/products/os) - A focus on programming and gaming, intended for the pi-Top, but works on any Raspberry Pi.
+- [PiNet](http://pinet.org.uk) - Centralized user accounts and file storage system for a Raspberry Pi classroom.
+- [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Run a full Lightning Node.
 - [RetroPie](https://retropie.org.uk) - Turn your Raspberry Pi into a retro-gaming machine, based on Raspbian.
-  
+- [ROKOS](https://rokos.space) - Bitcoin full node.
+
 ## Projects
