@@ -21,15 +21,15 @@ Images written to SD cards are the quickest way to get running on a Raspberry Pi
 
 ### Lightweight / Slim
 
-| OS | Base Image Size | Runtime Memory Footprint | Image | Setup |
-| --- | ------------------: | ------------------------: | ----- | ----- |
-| [Arch Linux ARM](https://archlinuxarm.org) <br> *A lightweight and flexible Linux distribution that tries to Keep It Simple.* | - | - | [Download](http://os.archlinuxarm.org/os/ArchLinuxARM-rpi-3-latest.tar.gz) | [Setup](https://archlinuxarm.org/platforms/armv6/raspberry-pi) |
-| [Alpine Linux](https://wiki.alpinelinux.org/wiki/Main_Page) <br> *A security-oriented, lightweight Linux distribution based on musl libc and Busybox.* | - | - | [Download](https://alpinelinux.org/downloads/) | [Setup](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) |
-| [Crux ARM](https://crux-arm.nu/Main/HomePage) <br> *CRUX ARM is a lightweight Linux distribution for the ARM architecture targeted at experienced Linux users.* | 81 MB  | - | [Download](https://crux-arm.nu/SupportedDevices/Raspberrypi) | [Setup](https://crux-arm.nu/SupportedDevices/Raspberrypi) |
-| [DietPi](https://www.dietpi.com) <br> *Highly optimized minimal Debian OS.* | 400 MB | - | [Download](https://dietpi.com/#download) | [Setup](https://dietpi.com/phpbb/viewtopic.php?p=9#p9) |
-| [piCore](http://www.tinycorelinux.net/welcome.html) <br> *The Core Project is a highly modular based system with community build extensions.* | 35 MB | - | [Download](http://www.tinycorelinux.net/9.x/armv6/) | [Setup](http://tinycorelinux.net/9.x/armv6/releases/RPi/README) |
-| [Raspbian Lite](https://www.raspberrypi.org/downloads/raspbian/) <br> *Raspbian without the graphical desktop, based on Debian.*| 1.2 GB | - | [Download](https://www.raspberrypi.org/downloads/raspbian/) | [Setup](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) |
-| [Ubuntu Core](https://ubuntu.com/download/iot/raspberry-pi-2-3-core) <br> *A lean, strictly confined and fully transactional operating system for IoT.* | - | - | [Download](https://ubuntu.com/download/iot/raspberry-pi-2-3-core) | [Setup](https://ubuntu.com/download/iot/raspberry-pi-2-3-core) |
+| OS | Difficulty | Base Image Size | Runtime Memory Footprint | Image | Setup |
+| --- | --------- | --------------: | -----------------------: | ----- | ----- |
+| [Arch Linux ARM](https://archlinuxarm.org) <br> *A lightweight and flexible Linux distribution that tries to Keep It Simple.* | Medium | - | - | [Download](http://os.archlinuxarm.org/os/ArchLinuxARM-rpi-3-latest.tar.gz) | [Setup](https://archlinuxarm.org/platforms/armv6/raspberry-pi) |
+| [Alpine Linux](https://wiki.alpinelinux.org/wiki/Main_Page) <br> *A security-oriented, lightweight Linux distribution based on musl libc and Busybox.* | Medium | - | - | [Download](https://alpinelinux.org/downloads/) | [Setup](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) |
+| [Crux ARM](https://crux-arm.nu/Main/HomePage) <br> *CRUX ARM is a lightweight Linux distribution for the ARM architecture targeted at experienced Linux users.* | High | 81 MB  | - | [Download](https://crux-arm.nu/SupportedDevices/Raspberrypi) | [Setup](https://crux-arm.nu/SupportedDevices/Raspberrypi) |
+| [DietPi](https://www.dietpi.com) <br> *Highly optimized minimal Debian OS.* | Low | 400 MB | - | [Download](https://dietpi.com/#download) | [Setup](https://dietpi.com/phpbb/viewtopic.php?p=9#p9) |
+| [piCore](http://www.tinycorelinux.net/welcome.html) <br> *The Core Project is a highly modular based system with community build extensions.* | High | 35 MB | - | [Download](http://www.tinycorelinux.net/9.x/armv6/) | [Setup](http://tinycorelinux.net/9.x/armv6/releases/RPi/README) |
+| [Raspbian Lite](https://www.raspberrypi.org/downloads/raspbian/) <br> *Raspbian without the graphical desktop, based on Debian.* | Low | 1.2 GB | - | [Download](https://www.raspberrypi.org/downloads/raspbian/) | [Setup](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) |
+| [Ubuntu Core](https://ubuntu.com/download/iot/raspberry-pi-2-3-core) <br> *A lean, strictly confined and fully transactional operating system for IoT.* | Medium | - | - | [Download](https://ubuntu.com/download/iot/raspberry-pi-2-3-core) | [Setup](https://ubuntu.com/download/iot/raspberry-pi-2-3-core) |
 
 ### Full
 
