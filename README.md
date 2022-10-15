@@ -36,7 +36,7 @@ Images written to SD cards are the quickest way to get running on a Raspberry Pi
 ### Full
 
 - [Android Things](https://developer.android.com/things/hardware/raspberrypi.html) - Android Things lets you experiment with building smart, connected device applications.
-- [Armbian](https://armbian.com) - Ubuntu or Debian, 64bit, for Rpi 3 or more recent, CLI and various desktop variants.
+- [Armbian](https://armbian.com) - Ubuntu or Debian packages, 64bit, for Rpi 3 or more recent, CLI and various desktop variants.
 - [FedBerry](http://fedberry.org) - A Fedora Remix specifically built for use with Raspberry Pi® 2/3 Model B computers.
 - [Gentoo Linux](https://wiki.gentoo.org/wiki/Raspberry_Pi) - Flexible Linux based Raspberry Pi OS and uses Portage software management to increases security and streamlines performance.
 - Raspbian
